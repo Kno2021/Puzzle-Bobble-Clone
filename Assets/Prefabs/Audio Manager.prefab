@@ -54,17 +54,17 @@ MonoBehaviour:
   _boardAudioSource: {fileID: 869618551489180969}
   _scoreAudioSource: {fileID: 869618551489180968}
   _initialSoundClips:
-  - {fileID: 8300000, guid: 269a6f4eec45b804085b9ad3a24745b8, type: 3}
-  - {fileID: 8300000, guid: 22359eb2476a8b546aee7d6f3a6f6481, type: 3}
-  _bubbleSnapSound: {fileID: 8300000, guid: 0741bbf441640e9499d18f90724d0c10, type: 3}
-  _bubblePopSound: {fileID: 8300000, guid: 82f43f4bdbf0a7e478e77bc2fb272862, type: 3}
-  _bubbleFallingSound: {fileID: 8300000, guid: 915f30d11639963428a3247cc5fcca04, type: 3}
-  _multiPopScoreSound: {fileID: 8300000, guid: 589294b9179c2a049890de47986a28f4, type: 3}
-  _fallingScoreSound: {fileID: 8300000, guid: 7895eb696f2014849afd47646177ba04, type: 3}
-  _boardWarningSound: {fileID: 8300000, guid: 93f1d524992558b4ea728a0f095eb15a, type: 3}
-  _boardShiftSound: {fileID: 8300000, guid: b6a2a76c274d0e44e9084c0b3b7029e2, type: 3}
-  _clearedLevelSound: {fileID: 8300000, guid: e964fac1b2b112841806dd24cc8df854, type: 3}
-  _youLoseLevelSound: {fileID: 8300000, guid: da9511885d0c33c4aad512e23691c7e7, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  _bubbleSnapSound: {fileID: 0}
+  _bubblePopSound: {fileID: 0}
+  _bubbleFallingSound: {fileID: 0}
+  _multiPopScoreSound: {fileID: 0}
+  _fallingScoreSound: {fileID: 0}
+  _boardWarningSound: {fileID: 0}
+  _boardShiftSound: {fileID: 0}
+  _clearedLevelSound: {fileID: 0}
+  _youLoseLevelSound: {fileID: 0}
 --- !u!82 &869618551489181014
 AudioSource:
   m_ObjectHideFlags: 0
