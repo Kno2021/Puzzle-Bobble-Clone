@@ -162,7 +162,8 @@ public class GameController : MonoBehaviour
         _audioManager = AudioManager.Instance;
         _playerReference.onShoot += UpdateBubbles;
         Ball.OnUpdate += UpdatePosition;
-        yield return new WaitForSeconds(_audioManager.TimeBeforeStart());
+        //yield return new WaitForSeconds(_audioManager.TimeBeforeStart());
+        yield return new WaitForSeconds(2f);
         _playerReference.CanShoot(true);
     }
     private void InstantiateBoard()
